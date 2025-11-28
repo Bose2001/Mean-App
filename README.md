@@ -7,7 +7,7 @@ This is a **full-stack MEAN (MongoDB, Express, Angular, Node.js) CRUD applicatio
 ## **Live Application**
 
 Access the deployed app here:  
-[3.236.104.228](http://3.236.104.228/tutorials)
+(http://3.236.104.228/)
 
 ---
 
